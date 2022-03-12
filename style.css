@@ -1,0 +1,57 @@
+header{
+    background:#bdcdee ;
+}
+ul li a{
+    color: white;
+}
+.mag{
+    margin: 50px auto 20px;
+}
+.h2_1{
+    text-align: center;
+}
+.p_main{
+    text-align: center;
+    width: 300px;
+    margin:0px auto 50px;
+}
+section{
+    background: #2062e7;
+}
+.px{
+    margin:30px  auto 30px;
+}
+h3{
+    color: white;
+}
+.p_se{
+    color: white;
+}
+.vid{
+    
+text-align: center;
+}
+.row .ram:hover{
+    opacity: 50%;
+ 
+background: linear-gradient(0deg, rgba(52, 84, 122, 0.8) rgba(52, 84,122,0.8));
+   
+}
+
+.row .ram {
+    opacity: 1;
+    height: 281px; 
+    width: 281px; 
+    font-size: 60px;
+
+    background: url(./Rectangle\ 7.3.png);    
+}
+
+.ram:hover i{
+    font-size: 60px;
+    color: red;
+}
+.butn{
+    background: #2062e7;
+    margin: 20px auto 20px;
+}
